@@ -1,0 +1,14 @@
+C:\BridgeLabz\C#Projects\LoogicalProgramming\bin\Debug\net6.0\LoogicalProgramming.exe
+C:\BridgeLabz\C#Projects\LoogicalProgramming\bin\Debug\net6.0\LoogicalProgramming.deps.json
+C:\BridgeLabz\C#Projects\LoogicalProgramming\bin\Debug\net6.0\LoogicalProgramming.runtimeconfig.json
+C:\BridgeLabz\C#Projects\LoogicalProgramming\bin\Debug\net6.0\LoogicalProgramming.dll
+C:\BridgeLabz\C#Projects\LoogicalProgramming\bin\Debug\net6.0\LoogicalProgramming.pdb
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.AssemblyInfoInputs.cache
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.AssemblyInfo.cs
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.csproj.CoreCompileInputs.cache
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.dll
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\refint\LoogicalProgramming.dll
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.pdb
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\LoogicalProgramming.genruntimeconfig.cache
+C:\BridgeLabz\C#Projects\LoogicalProgramming\obj\Debug\net6.0\ref\LoogicalProgramming.dll
