@@ -8,8 +8,10 @@
             //FibonacciSeries fibonacciSeries = new FibonacciSeries();
             int n= Convert.ToInt32(Console.ReadLine());
             //fibonacciSeries.fibonacciSeries(n);
-            PerfectNumber perfectNumber = new PerfectNumber(n);
-            //perfectNumber.Perfect_Number(n);
+           // PerfectNumber perfectNumber = new PerfectNumber(n);
+            PrimeNumber primeNumber = new PrimeNumber();
+            bool flag = primeNumber.IsPrimeNumber(n);
+            Console.WriteLine(n + " Is prime Number "+flag);
         }
     }
 }
